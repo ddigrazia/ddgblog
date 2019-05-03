@@ -519,7 +519,7 @@ body {
 
 .textLogo {
   display: block;
-  background-image: url(../images/logo-text-black.svg);
+  background-image: url(../images/dian-di-grazia.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 0 0;
@@ -555,8 +555,8 @@ body {
           transform: translateX(-50%);
   z-index: 500;
   margin: 0;
-  width: 276px;
-  height: 50px;
+  width: 521px;
+  height: 63px;
   background-size: 100%;
   background-position: 0;
   opacity: 0.9;
