@@ -1,18 +1,19 @@
 ---
 layout: post
-title:  "Post 2"
+title:  "Post Teste"
 date:   2014-11-28 01:00:00
 last_modified_at:  2014-11-28 01:00:00
-excerpt: "Mickey Mouse is a funny animal cartoon character and the official mascot of..."
+excerpt: "Teste de post meio a meio"
 categories: history
 tags:  mickey
 image:
-  feature: dian-escurao.png
+  feature: mickey-mouse.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
+TESTE
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Mickey_Mouse)
 
 Mickey Mouse is a funny animal cartoon character and the official mascot of [The Walt Disney Company](https://en.wikipedia.org/wiki/The_Walt_Disney_Company). He was created by Walt Disney and Ub Iwerks at the Walt Disney Studios in 1928. An anthropomorphic mouse who typically wears red shorts, large yellow shoes, and white gloves, Mickey has become one of the most recognizable cartoon characters in the world.

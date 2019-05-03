@@ -23,15 +23,11 @@ icon:                your site icon path # /assets/img/icon.png [best 300px X 30
 disqus:              lucas-m-braz # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
-  url:            	 your site url
-  facebook:          username
-  twitter:           username
-  google_plus:       username
-  linkedin:          username
-  dribbble:          username
-  pinterest:         username
-  kiva:              username
+  name:           	 Dian Di Grazia
+  url:            	 https://diandigrazia.me
+  facebook:          diandigrazia
+  linkedin:          ddigrazia
+  instagram:         diandigrazia
 
 fb_admins:           your facebook profile id
 fb_appid:            your facebook app id

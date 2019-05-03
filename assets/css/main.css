@@ -2105,7 +2105,7 @@ body {
   list-style: none;
   margin: 1.5rem auto;
   padding-left: 0;
-  width: 50%;
+  width: 19%;
 }
 
 .socialAccountList:before,
@@ -2122,9 +2122,9 @@ body {
   display: block;
   float: left;
   margin: 0;
-  padding: 0 15px;
+  padding: 0 21px;
   width: 14.2%;
-  height: 25px;
+  height: 35px;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: center center;
@@ -2138,10 +2138,6 @@ body {
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 }
 
-.socialAccount--twitter {
-  background-image: url(../images/twitter--black.svg);
-}
-
 .socialAccount--facebook {
   background-image: url(../images/facebook--black.svg);
 }
@@ -2150,20 +2146,8 @@ body {
   background-image: url(../images/linkedin--black.svg);
 }
 
-.socialAccount--dribbble {
-  background-image: url(../images/dribbble--black.svg);
-}
-
-.socialAccount--pinterest {
-  background-image: url(../images/pinterest--black.svg);
-}
-
-.socialAccount--kiva {
-  background-image: url(../images/kiva--black.svg);
-}
-
-.socialAccount--rss {
-  background-image: url(../images/rss--black.svg);
+.socialAccount--instagram {
+  background-image: url(../images/instagram--black.svg);
 }
 
 .section--last {
