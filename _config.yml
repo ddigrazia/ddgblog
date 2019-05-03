@@ -8,8 +8,8 @@ permalink:           /:title
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
-name:				         site name
-title:               site title
+name:				         Dian Di Grazia Blog
+title:               Dian Di Grazia Blog
 tagline:             'tagline'
 description:         'description'
 url:                 site url
