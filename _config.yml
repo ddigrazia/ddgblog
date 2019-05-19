@@ -6,13 +6,13 @@ highlighter:         rouge
 permalink:           /:title
 
 # Setup
-timezone:            your timezone # eg. Asia/Kathmandu
-locale:              your locale language # eg. en_us
+timezone:            America/Sao_Paulo
+locale:              pt_BR # eg. en_us
 name:				         Dian Di Grazia Blog
 title:               Dian Di Grazia Blog
 tagline:             'tagline'
 description:         'description'
-url:                 site url
+url:                 https://diandigrazia.site
 rss:                 rss feed url
 baseurl:             ''
 baseurl_posts_img:   '/assets/images/posts/'
@@ -24,7 +24,7 @@ disqus:              diandigrazia # get it on https://disqus.com/admin/
 
 author:
   name:           	 Dian Di Grazia
-  url:            	 https://diandigrazia.me
+  url:            	 https://diandigrazia.site
   facebook:          diandigrazia
   linkedin:          ddigrazia
   instagram:         diandigrazia
